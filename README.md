@@ -1,6 +1,19 @@
-<<<<<<< HEAD
 # Drawingbook
-=======
+Some Features:
+
+- 🎃 Brush size editing, canvas config.
+- 👨🏻‍🏫 Undo and Redo operations
+- 💊 Canvas Download feature
+- 🚀 Color palette
+
+Built With
+
+- ReactJS
+- Redux-Toolkit
+- Socket.io
+- NodeJS
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
